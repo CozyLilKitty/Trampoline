@@ -1,0 +1,16 @@
+C:\Users\quinn\OneDrive\Desktop\ModDev\Vintage Story\Trampoline\Trampoline\bin\Release\Mods\mod\assets\Trampoline\blocktypes\trampoline.json
+C:\Users\quinn\OneDrive\Desktop\ModDev\Vintage Story\Trampoline\Trampoline\bin\Release\Mods\mod\assets\Trampoline\lang\en.json
+C:\Users\quinn\OneDrive\Desktop\ModDev\Vintage Story\Trampoline\Trampoline\bin\Release\Mods\mod\assets\Trampoline\textures\block\trampoline.png
+C:\Users\quinn\OneDrive\Desktop\ModDev\Vintage Story\Trampoline\Trampoline\bin\Release\Mods\mod\modinfo.json
+C:\Users\quinn\OneDrive\Desktop\ModDev\Vintage Story\Trampoline\Trampoline\bin\Release\Mods\mod\Trampoline.deps.json
+C:\Users\quinn\OneDrive\Desktop\ModDev\Vintage Story\Trampoline\Trampoline\bin\Release\Mods\mod\Trampoline.dll
+C:\Users\quinn\OneDrive\Desktop\ModDev\Vintage Story\Trampoline\Trampoline\bin\Release\Mods\mod\Trampoline.pdb
+C:\Users\quinn\OneDrive\Desktop\ModDev\Vintage Story\Trampoline\Trampoline\obj\Release\Trampoline.csproj.AssemblyReference.cache
+C:\Users\quinn\OneDrive\Desktop\ModDev\Vintage Story\Trampoline\Trampoline\obj\Release\Trampoline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quinn\OneDrive\Desktop\ModDev\Vintage Story\Trampoline\Trampoline\obj\Release\Trampoline.AssemblyInfoInputs.cache
+C:\Users\quinn\OneDrive\Desktop\ModDev\Vintage Story\Trampoline\Trampoline\obj\Release\Trampoline.AssemblyInfo.cs
+C:\Users\quinn\OneDrive\Desktop\ModDev\Vintage Story\Trampoline\Trampoline\obj\Release\Trampoline.csproj.CoreCompileInputs.cache
+C:\Users\quinn\OneDrive\Desktop\ModDev\Vintage Story\Trampoline\Trampoline\obj\Release\Trampoline.dll
+C:\Users\quinn\OneDrive\Desktop\ModDev\Vintage Story\Trampoline\Trampoline\obj\Release\refint\Trampoline.dll
+C:\Users\quinn\OneDrive\Desktop\ModDev\Vintage Story\Trampoline\Trampoline\obj\Release\Trampoline.pdb
+C:\Users\quinn\OneDrive\Desktop\ModDev\Vintage Story\Trampoline\Trampoline\obj\Release\ref\Trampoline.dll
